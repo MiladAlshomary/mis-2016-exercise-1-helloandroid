@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hardwareinfo version="4.2.6">
+<group title="LGE Nexus 5X">
+<group title="System" subtitle="Android 6.0.1">
+<entry name="Model">Nexus 5X</entry>
+<entry name="Manufacturer">LGE</entry>
+<entry name="Device">bullhead</entry>
+<entry name="Product">bullhead</entry>
+<entry name="Brand">google</entry>
+<entry name="Android Version">6.0.1</entry>
+<entry name="API Level">23</entry>
+<entry name="Build ID">MHC19J</entry>
+<entry name="Fingerprint">google/bullhead/bullhead:6.0.1/MHC19J/2595691:user/release-keys</entry>
+</group>
+<group title="Display" subtitle="1920x1080">
+<entry name="Size">1920x1080</entry>
+<entry name="Refresh Rate">60 Hz</entry>
+<entry name="Default Orientation">Portrait</entry>
+<entry name="Physical Size">5.2" (13.21 cm)</entry>
+<entry name="Logical Size">Normal</entry>
+<entry name="Density">Unknown</entry>
+<entry name="Pixels Per Inch">X: 422.03; Y: 424.07</entry>
+</group>
+<group title="Processor" subtitle="AArch64">
+<entry name="Processor">AArch64 Processor rev 2 (aarch64)</entry>
+<entry name="Cores">6</entry>
+<entry name="Max Frequency">1440 Mhz</entry>
+<entry name="Instruction Sets">arm64-v8a, </entry>
+<entry name="SIMD Instructions">Not Supported</entry>
+</group>
+<group title="Memory" subtitle="1813 MB">
+<entry name="System RAM">1813 MB</entry>
+<entry name="JVM Max Memory">192 MB</entry>
+<entry name="Internal Storage">25483 MB</entry>
+<entry name="External Storage">25483 MB (Emulated)</entry>
+</group>
+<group title="Back Camera" subtitle="12.2 megapixel">
+<group title="Summary">
+<entry name="Max Picture Size">4032x3024 (4:3)</entry>
+<entry name="Zoom">3.99x</entry>
+<entry name="Autofocus">Supported (Continuous)</entry>
+<entry name="Orientation">270°</entry>
+</group>
+<group title="Picture">
+<entry name="Picture Format">Jpeg</entry>
+<entry name="Picture Format Values">Jpeg</entry>
+<entry name="Picture Size">4032x3024</entry>
+<entry name="Picture Size Values">4032x3024, 4000x3000, 3840x2160, 3288x2480, 3200x2400, 2976x2976, 2592x1944, 2688x1512, 2048x1536, 1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240</entry>
+</group>
+<group title="Preview">
+<entry name="Preview Format">Yuv420sp</entry>
+<entry name="Preview Format Values">Yuv420p, Yuv420sp, </entry>
+<entry name="Preview Fps Range">15000, 30000</entry>
+<entry name="Preview Fps Range Values">(15000, 15000), (24000, 24000), (15000, 30000), (30000, 30000)</entry>
+<entry name="Preview Frame Rate">30</entry>
+<entry name="Preview Frame Rate Values">15, 24, 30</entry>
+<entry name="Preview Size">1920x1080</entry>
+<entry name="Preview Size Values">1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240, 176x144, 160x120</entry>
+</group>
+<group title="Video">
+<entry name="Preferred Preview Size For Video">1920x1080</entry>
+<entry name="Video Frame Format">Android Opaque</entry>
+<entry name="Video Size">1920x1080</entry>
+<entry name="Video Size Values">3840x2160, 2592x1944, 2688x1512, 2048x1536, 1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240, 176x144, 160x120</entry>
+<entry name="Video Snapshot Supported">True</entry>
+<entry name="Video Stabilization">False</entry>
+<entry name="Video Stabilization Supported">False</entry>
+</group>
+<group title="Flash">
+<entry name="Flash Mode">Off</entry>
+<entry name="Flash Mode Values">Off, Auto, On, Torch</entry>
+</group>
+<group title="Focus">
+<entry name="Focus Areas">(0, 0, 0, 0, 0)</entry>
+<entry name="Focus Distances">Infinity, Infinity, Infinity</entry>
+<entry name="Focus Mode">Auto</entry>
+<entry name="Focus Mode Values">Infinity, Auto, Macro, Continuous Video, Continuous Picture</entry>
+<entry name="Max Num Focus Areas">1</entry>
+</group>
+<group title="Zoom">
+<entry name="Max Zoom">99</entry>
+<entry name="Smooth Zoom Supported">False</entry>
+<entry name="Zoom">0</entry>
+<entry name="Zoom Ratios">100, 103, 106, 109, 112, 115, 118, 121, 124, 127, 130, 133, 136, 139, 142, 145, 148, 151, 154, 157, 160, 163, 166, 169, 172, 175, 178, 181, 184, 187, 190, 193, 196, 199, 203, 206, 209, 212, 215, 218, 221, 224, 227, 230, 233, 236, 239, 242, 245, 248, 251, 254, 257, 260, 263, 266, 269, 272, 275, 278, 281, 284, 287, 290, 293, 296, 299, 303, 306, 309, 312, 315, 318, 321, 324, 327, 330, 333, 336, 339, 342, 345, 348, 351, 354, 357, 360, 363, 366, 369, 372, 375, 378, 381, 384, 387, 390, 393, 396, 399</entry>
+<entry name="Zoom Supported">True</entry>
+</group>
+<group title="Whitebalance">
+<entry name="Auto Whitebalance Lock">False</entry>
+<entry name="Auto Whitebalance Lock Supported">True</entry>
+<entry name="Whitebalance">Auto</entry>
+<entry name="Whitebalance Values">Auto, Incandescent, Fluorescent, Warm Fluorescent, Daylight, Cloudy Daylight, Twilight, Shade, </entry>
+</group>
+<group title="Exposure compensation">
+<entry name="Exposure Compensation">0</entry>
+<entry name="Exposure Compensation Step">0</entry>
+<entry name="Max Exposure Compensation">0</entry>
+<entry name="Min Exposure Compensation">0</entry>
+</group>
+<group title="Scene">
+<entry name="Scene Mode">Auto</entry>
+<entry name="Scene Mode Values">Auto, Landscape, Snow, Beach, Sunset, Night, Portrait, Sports, Steadyphoto, Candlelight, Fireworks, Party, Night Portrait, Theatre, Action, </entry>
+</group>
+<group title="Misc">
+<entry name="Antibanding">Auto</entry>
+<entry name="Antibanding Values">Off, 60hz, 50hz, Auto</entry>
+<entry name="Auto Exposure Lock">False</entry>
+<entry name="Auto Exposure Lock Supported">True</entry>
+<entry name="Effect">None</entry>
+<entry name="Effect Values">None, Mono, Negative, Solarize, Sepia, Posterize, Whiteboard, Blackboard, Aqua</entry>
+<entry name="Focal Length">4.67</entry>
+<entry name="Horizontal View Angle">67.5747</entry>
+<entry name="Jpeg Quality">90</entry>
+<entry name="Jpeg Thumbnail Height">384</entry>
+<entry name="Jpeg Thumbnail Quality">90</entry>
+<entry name="Jpeg Thumbnail Size Values">0x0, 176x144, 320x240, 432x288, 480x288, 512x288, 512x384</entry>
+<entry name="Jpeg Thumbnail Width">512</entry>
+<entry name="Max Num Detected Faces Hw">10</entry>
+<entry name="Max Num Detected Faces Sw">0</entry>
+<entry name="Max Num Metering Areas">1</entry>
+<entry name="Metering Areas">(0, 0, 0, 0, 0)</entry>
+<entry name="Recording Hint">False</entry>
+<entry name="Rotation">0</entry>
+<entry name="Vertical View Angle">53.2988</entry>
+</group>
+</group>
+<group title="Front Camera" subtitle="5 megapixel">
+<group title="Summary">
+<entry name="Max Picture Size">2592x1944 (4:3)</entry>
+<entry name="Zoom">3.99x</entry>
+<entry name="Autofocus">Not supported</entry>
+<entry name="Orientation">270°</entry>
+</group>
+<group title="Picture">
+<entry name="Picture Format">Jpeg</entry>
+<entry name="Picture Format Values">Jpeg</entry>
+<entry name="Picture Size">2592x1944</entry>
+<entry name="Picture Size Values">2592x1944, 2048x1536, 1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240, 176x144</entry>
+</group>
+<group title="Preview">
+<entry name="Preview Format">Yuv420sp</entry>
+<entry name="Preview Format Values">Yuv420p, Yuv420sp, </entry>
+<entry name="Preview Fps Range">7000, 30000</entry>
+<entry name="Preview Fps Range Values">(15000, 15000), (24000, 24000), (7000, 30000), (30000, 30000)</entry>
+<entry name="Preview Frame Rate">30</entry>
+<entry name="Preview Frame Rate Values">15, 24, 30</entry>
+<entry name="Preview Size">1920x1080</entry>
+<entry name="Preview Size Values">1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240, 176x144, 160x120</entry>
+</group>
+<group title="Video">
+<entry name="Preferred Preview Size For Video">1920x1080</entry>
+<entry name="Video Frame Format">Android Opaque</entry>
+<entry name="Video Size">1920x1080</entry>
+<entry name="Video Size Values">2592x1944, 2048x1536, 1920x1080, 1600x1200, 1440x1080, 1280x960, 1280x768, 1280x720, 1024x768, 800x600, 864x480, 800x480, 720x480, 640x480, 640x360, 352x288, 320x240, 176x144, 160x120</entry>
+<entry name="Video Snapshot Supported">True</entry>
+<entry name="Video Stabilization">False</entry>
+<entry name="Video Stabilization Supported">False</entry>
+</group>
+<group title="Focus">
+<entry name="Focus Areas">(0, 0, 0, 0, 0)</entry>
+<entry name="Focus Distances">Infinity, Infinity, Infinity</entry>
+<entry name="Focus Mode">Fixed</entry>
+<entry name="Focus Mode Values">Fixed</entry>
+<entry name="Max Num Focus Areas">0</entry>
+</group>
+<group title="Zoom">
+<entry name="Max Zoom">99</entry>
+<entry name="Smooth Zoom Supported">False</entry>
+<entry name="Zoom">0</entry>
+<entry name="Zoom Ratios">100, 103, 106, 109, 112, 115, 118, 121, 124, 127, 130, 133, 136, 139, 142, 145, 148, 151, 154, 157, 160, 163, 166, 169, 172, 175, 178, 181, 184, 187, 190, 193, 196, 199, 203, 206, 209, 212, 215, 218, 221, 224, 227, 230, 233, 236, 239, 242, 245, 248, 251, 254, 257, 260, 263, 266, 269, 272, 275, 278, 281, 284, 287, 290, 293, 296, 299, 303, 306, 309, 312, 315, 318, 321, 324, 327, 330, 333, 336, 339, 342, 345, 348, 351, 354, 357, 360, 363, 366, 369, 372, 375, 378, 381, 384, 387, 390, 393, 396, 399</entry>
+<entry name="Zoom Supported">True</entry>
+</group>
+<group title="Whitebalance">
+<entry name="Auto Whitebalance Lock">False</entry>
+<entry name="Auto Whitebalance Lock Supported">True</entry>
+<entry name="Whitebalance">Auto</entry>
+<entry name="Whitebalance Values">Auto, Incandescent, Fluorescent, Warm Fluorescent, Daylight, Cloudy Daylight, Twilight, Shade, </entry>
+</group>
+<group title="Exposure compensation">
+<entry name="Exposure Compensation">0</entry>
+<entry name="Exposure Compensation Step">0</entry>
+<entry name="Max Exposure Compensation">0</entry>
+<entry name="Min Exposure Compensation">0</entry>
+</group>
+<group title="Scene">
+<entry name="Scene Mode">Auto</entry>
+<entry name="Scene Mode Values">Auto, Landscape, Snow, Beach, Sunset, Night, Portrait, Sports, Steadyphoto, Candlelight, Fireworks, Party, Night Portrait, Theatre, Action, </entry>
+</group>
+<group title="Misc">
+<entry name="Antibanding">Auto</entry>
+<entry name="Antibanding Values">Off, 60hz, 50hz, Auto</entry>
+<entry name="Auto Exposure Lock">False</entry>
+<entry name="Auto Exposure Lock Supported">True</entry>
+<entry name="Effect">None</entry>
+<entry name="Effect Values">None, Mono, Negative, Solarize, Sepia, Posterize, Whiteboard, Blackboard, Aqua</entry>
+<entry name="Focal Length">2.56</entry>
+<entry name="Horizontal View Angle">70.6542</entry>
+<entry name="Jpeg Quality">90</entry>
+<entry name="Jpeg Thumbnail Height">384</entry>
+<entry name="Jpeg Thumbnail Quality">90</entry>
+<entry name="Jpeg Thumbnail Size Values">0x0, 176x144, 320x240, 432x288, 480x288, 512x288, 512x384</entry>
+<entry name="Jpeg Thumbnail Width">512</entry>
+<entry name="Max Num Detected Faces Hw">10</entry>
+<entry name="Max Num Detected Faces Sw">0</entry>
+<entry name="Max Num Metering Areas">1</entry>
+<entry name="Metering Areas">(0, 0, 0, 0, 0)</entry>
+<entry name="Recording Hint">False</entry>
+<entry name="Rotation">0</entry>
+<entry name="Vertical View Angle">55.9869</entry>
+</group>
+</group>
+<group title="OpenGL 1.1" subtitle="Adreno (TM) 418">
+<group title="General">
+<entry name="Renderer">Adreno (TM) 418</entry>
+<entry name="Version">OpenGL ES-CM 1.1</entry>
+<entry name="Vendor">Qualcomm</entry>
+</group>
+<group title="Limits">
+<entry name="Texture Size">16384x16384</entry>
+<entry name="Texture Units">2</entry>
+<entry name="Viewport Size">16384x16384</entry>
+<entry name="Modelview Stack Depth">16</entry>
+<entry name="Projection Stack Depth">4</entry>
+<entry name="Texture Stack Depth">2</entry>
+<entry name="Lights">8</entry>
+</group>
+<group title="Compressed Texture Formats">
+<entry >ATITC, ETC1, Paletted</entry>
+</group>
+<group title="Extensions">
+<entry >GL_EXT_debug_marker GL_AMD_compressed_ATC_texture GL_AMD_performance_monitor GL_APPLE_texture_2D_limited_npot GL_ARB_vertex_buffer_object GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_texture_type_2_10_10_10_REV GL_OES_blend_equation_separate GL_OES_blend_func_separate GL_OES_blend_subtract GL_OES_compressed_ETC1_RGB8_texture GL_OES_compressed_paletted_texture GL_OES_depth_texture GL_OES_depth24 GL_OES_draw_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_framebuffer_object GL_OES_matrix_palette GL_OES_packed_depth_stencil GL_OES_point_size_array GL_OES_point_sprite GL_OES_read_format GL_OES_rgb8_rgba8 GL_OES_stencil_wrap GL_OES_texture_cube_map GL_OES_texture_env_crossbar GL_OES_texture_float GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_texture_npot GL_OES_texture_mirrored_repeat GL_QCOM_extended_get GL_QCOM_tiled_rendering </entry>
+</group>
+</group>
+<group title="OpenGL 3.1" subtitle="Adreno (TM) 418">
+<group title="General">
+<entry name="Renderer">Adreno (TM) 418</entry>
+<entry name="Version">OpenGL ES 3.1 V@127.0 (GIT@I8366cd0437)</entry>
+<entry name="Vendor">Qualcomm</entry>
+<entry name="GLSL Version">OpenGL ES GLSL ES 3.10</entry>
+</group>
+<group title="Limits">
+<entry name="Texture Size">16384x16384</entry>
+<entry name="Texture Units">16</entry>
+<entry name="Vertex Textures">16</entry>
+<entry name="Combined Textures">96</entry>
+<entry name="Viewport Size">16384x16384</entry>
+<entry name="Renderbuffer Size">16384x16384</entry>
+<entry name="Cubemap Size">16384x16384</entry>
+<entry name="Vertex Attributes">32</entry>
+<entry name="Vertex Uniforms">256</entry>
+<entry name="Varying Vectors">31</entry>
+<entry name="Fragment Uniforms">256</entry>
+</group>
+<group title="Vertex Numeric Precision">
+<entry name="Int">[-2^31, 2^31]</entry>
+<entry name="Float">[-2^127, 2^127], 2^-23</entry>
+</group>
+<group title="Fragment Numeric Precision">
+<entry name="Low Int">[-2^15, 2^15]</entry>
+<entry name="Medium Int">[-2^15, 2^15]</entry>
+<entry name="High Int">[-2^31, 2^31]</entry>
+<entry name="Low Float">[-2^15, 2^15], 2^-10</entry>
+<entry name="Medium Float">[-2^15, 2^15], 2^-10</entry>
+<entry name="High Float">[-2^127, 2^127], 2^-23</entry>
+</group>
+<group title="Compressed Texture Formats">
+<entry >ATITC, ETC1</entry>
+</group>
+<group title="Extensions">
+<entry >GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_border_clamp GL_EXT_multisampled_render_to_texture GL_OES_shader_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_EXT_buffer_storage </entry>
+</group>
+</group>
+<group title="Graphic Modes" subtitle="RGBA 32bit">
+<entry >RGB 0bit (000), Non-Conformant</entry>
+<entry >RGB 0bit (000), Non-Conformant</entry>
+<entry >RGB 0bit (000), Stencil 8bit, Non-Conformant</entry>
+<entry >RGB 0bit (000), Stencil 8bit, Non-Conformant</entry>
+<entry >RGB 0bit (000), Depth 16bit, Non-Conformant</entry>
+<entry >RGB 0bit (000), Depth 16bit, Non-Conformant</entry>
+<entry >RGB 0bit (000), Depth 24bit, Stencil 8bit, Non-Conformant</entry>
+<entry >RGB 0bit (000), Depth 24bit, Stencil 8bit, Non-Conformant</entry>
+<entry >RGB 16bit (565)</entry>
+<entry >RGB 16bit (565), Samples x2</entry>
+<entry >RGB 16bit (565), Samples x4</entry>
+<entry >RGB 16bit (565), Stencil 8bit</entry>
+<entry >RGB 16bit (565), Stencil 8bit, Samples x2</entry>
+<entry >RGB 16bit (565), Stencil 8bit, Samples x4</entry>
+<entry >RGB 16bit (565), Depth 16bit</entry>
+<entry >RGB 16bit (565), Depth 16bit, Samples x2</entry>
+<entry >RGB 16bit (565), Depth 16bit, Samples x4</entry>
+<entry >RGB 16bit (565), Depth 24bit, Stencil 8bit</entry>
+<entry >RGB 16bit (565), Depth 24bit, Stencil 8bit, Samples x2</entry>
+<entry >RGB 16bit (565), Depth 24bit, Stencil 8bit, Samples x4</entry>
+<entry >RGBA 16bit (5551)</entry>
+<entry >RGBA 16bit (5551), Stencil 8bit</entry>
+<entry >RGBA 16bit (5551), Depth 16bit</entry>
+<entry >RGBA 16bit (5551), Depth 24bit, Stencil 8bit</entry>
+<entry >RGBA 16bit (4444)</entry>
+<entry >RGBA 16bit (4444), Stencil 8bit</entry>
+<entry >RGBA 16bit (4444), Depth 16bit</entry>
+<entry >RGBA 16bit (4444), Depth 24bit, Stencil 8bit</entry>
+<entry >RGB 24bit (888)</entry>
+<entry >RGB 24bit (888)</entry>
+<entry >RGB 24bit (888), Samples x2</entry>
+<entry >RGB 24bit (888), Samples x4</entry>
+<entry >RGB 24bit (888), Stencil 8bit</entry>
+<entry >RGB 24bit (888), Stencil 8bit</entry>
+<entry >RGB 24bit (888), Stencil 8bit, Samples x2</entry>
+<entry >RGB 24bit (888), Stencil 8bit, Samples x4</entry>
+<entry >RGB 24bit (888), Depth 16bit</entry>
+<entry >RGB 24bit (888), Depth 16bit</entry>
+<entry >RGB 24bit (888), Depth 16bit, Samples x2</entry>
+<entry >RGB 24bit (888), Depth 16bit, Samples x4</entry>
+<entry >RGB 24bit (888), Depth 24bit, Stencil 8bit</entry>
+<entry >RGB 24bit (888), Depth 24bit, Stencil 8bit</entry>
+<entry >RGB 24bit (888), Depth 24bit, Stencil 8bit, Samples x2</entry>
+<entry >RGB 24bit (888), Depth 24bit, Stencil 8bit, Samples x4</entry>
+<entry >RGBA 32bit (8888)</entry>
+<entry >RGBA 32bit (8888), Samples x2</entry>
+<entry >RGBA 32bit (8888), Samples x4</entry>
+<entry >RGBA 32bit (8888), Stencil 8bit</entry>
+<entry >RGBA 32bit (8888), Stencil 8bit, Samples x2</entry>
+<entry >RGBA 32bit (8888), Stencil 8bit, Samples x4</entry>
+<entry >RGBA 32bit (8888), Depth 16bit</entry>
+<entry >RGBA 32bit (8888), Depth 16bit, Samples x2</entry>
+<entry >RGBA 32bit (8888), Depth 16bit, Samples x4</entry>
+<entry >RGBA 32bit (8888), Depth 24bit, Stencil 8bit</entry>
+<entry >RGBA 32bit (8888), Depth 24bit, Stencil 8bit, Samples x2</entry>
+<entry >RGBA 32bit (8888), Depth 24bit, Stencil 8bit, Samples x4</entry>
+</group>
+<group title="Sensors" subtitle="24">
+<group title="RPR0521 proximity">
+<entry name="Vendor">Rohm</entry>
+<entry name="Range">5.0 cm</entry>
+<entry name="Resolution">1.0 cm</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">200000 μs</entry>
+</group>
+<group title="RPR0521 light">
+<entry name="Vendor">Rohm</entry>
+<entry name="Range">43000.0 lx</entry>
+<entry name="Resolution">10.0 lx</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">200000 μs</entry>
+</group>
+<group title="BMI160 accelerometer">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">78.4532 m/s²</entry>
+<entry name="Resolution">0.0023942017 m/s²</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="BMI160 gyroscope">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">34.906586 rad/s</entry>
+<entry name="Resolution">0.0010652645 rad/s</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="BMI160 gyroscope (uncalibrated)">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">34.906586 rad/s</entry>
+<entry name="Resolution">0.0010652645 rad/s</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="BMM150 magnetometer">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">1300.0 μT</entry>
+<entry name="Resolution">0.0 μT</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">20000 μs</entry>
+</group>
+<group title="BMM150 magnetometer (uncalibrated)">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">1300.0 μT</entry>
+<entry name="Resolution">0.0 μT</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">20000 μs</entry>
+</group>
+<group title="BMP280 pressure">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">1100.0 hPa</entry>
+<entry name="Resolution">0.005 hPa</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">100000 μs</entry>
+</group>
+<group title="BMP280 temperature">
+<entry name="Vendor">Bosch</entry>
+<entry name="Range">85.0</entry>
+<entry name="Resolution">0.01</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">40000 μs</entry>
+</group>
+<group title="Orientation">
+<entry name="Vendor">Google</entry>
+<entry name="Range">360.0°</entry>
+<entry name="Resolution">1.0°</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="BMI160 Step detector">
+<entry name="Vendor">Bosch</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="BMI160 Step counter">
+<entry name="Vendor">Bosch</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Significant motion">
+<entry name="Vendor">Google</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Gravity">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1000.0 m/s²</entry>
+<entry name="Resolution">1.0 m/s²</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="Linear Acceleration">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1000.0 m/s²</entry>
+<entry name="Resolution">1.0 m/s²</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="Rotation Vector">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1000.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="Geomagnetic Rotation Vector">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1000.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="Game Rotation Vector">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1000.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">5000 μs</entry>
+</group>
+<group title="Tilt Detector">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Pickup Gesture">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.0 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Sensors Sync">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.1 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Double Twist">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.1 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Double Tap">
+<entry name="Vendor">Google</entry>
+<entry name="Range">1.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.1 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+<group title="Window Orientation">
+<entry name="Vendor">Google</entry>
+<entry name="Range">3.0</entry>
+<entry name="Resolution">1.0</entry>
+<entry name="Power">0.1 mA</entry>
+<entry name="Delay">On Trigger</entry>
+</group>
+</group>
+<group title="Codecs" subtitle="33">
+<group title="OMX.google.mp3.decoder">
+<group title="Media type: audio/mpeg">
+</group>
+</group>
+<group title="OMX.google.amrnb.decoder">
+<group title="Media type: audio/3gpp">
+</group>
+</group>
+<group title="OMX.google.amrwb.decoder">
+<group title="Media type: audio/amr-wb">
+</group>
+</group>
+<group title="OMX.google.aac.decoder">
+<group title="Media type: audio/mp4a-latm">
+</group>
+</group>
+<group title="OMX.google.g711.alaw.decoder">
+<group title="Media type: audio/g711-alaw">
+</group>
+</group>
+<group title="OMX.google.g711.mlaw.decoder">
+<group title="Media type: audio/g711-mlaw">
+</group>
+</group>
+<group title="OMX.google.vorbis.decoder">
+<group title="Media type: audio/vorbis">
+</group>
+</group>
+<group title="OMX.google.opus.decoder">
+<group title="Media type: audio/opus">
+</group>
+</group>
+<group title="OMX.google.raw.decoder">
+<group title="Media type: audio/raw">
+</group>
+</group>
+<group title="OMX.google.aac.encoder">
+<group title="Media type: audio/mp4a-latm">
+</group>
+</group>
+<group title="OMX.google.amrnb.encoder">
+<group title="Media type: audio/3gpp">
+</group>
+</group>
+<group title="OMX.google.amrwb.encoder">
+<group title="Media type: audio/amr-wb">
+</group>
+</group>
+<group title="OMX.google.flac.encoder">
+<group title="Media type: audio/flac">
+</group>
+</group>
+<group title="OMX.google.gsm.decoder">
+<group title="Media type: audio/gsm">
+</group>
+</group>
+<group title="OMX.qcom.video.encoder.mpeg4">
+<group title="Media type: video/mp4v-es">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m Surface YUV420Flexible</entry>
+<entry name="Profiles: ">Simple(5) AdvancedSimple(5) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.encoder.h263">
+<group title="Media type: video/3gpp">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m Surface YUV420Flexible</entry>
+<entry name="Profiles: ">Baseline(70) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.encoder.avc">
+<group title="Media type: video/avc">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m Surface YUV420Flexible</entry>
+<entry name="Profiles: ">Baseline(0x10000) Main(0x10000) High(0x10000) 0x7f000001(0x10000) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.encoder.vp8">
+<group title="Media type: video/x-vnd.on2.vp8">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m Surface YUV420Flexible</entry>
+<entry name="Profiles: ">Main(Version0, Version1) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.decoder.avc">
+<group title="Media type: video/avc">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Baseline(4) Main(4) High(4) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.decoder.mpeg4">
+<group title="Media type: video/mp4v-es">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Simple(5) AdvancedSimple(5) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.decoder.h263">
+<group title="Media type: video/3gpp">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Baseline(70) </entry>
+</group>
+</group>
+<group title="OMX.qcom.video.decoder.vp8">
+<group title="Media type: video/x-vnd.on2.vp8">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+</group>
+</group>
+<group title="OMX.qcom.video.decoder.hevc">
+<group title="Media type: video/hevc">
+<entry name="Color Formats: ">QOMX_COLOR_FormatYUV420PackedSemiPlanar32m YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">0x1(0x10000) </entry>
+</group>
+</group>
+<group title="OMX.google.mpeg4.decoder">
+<group title="Media type: video/mp4v-es">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+<entry name="Profiles: ">Simple(0, 0b, 1, 2, 3) </entry>
+</group>
+</group>
+<group title="OMX.google.h263.decoder">
+<group title="Media type: video/3gpp">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+<entry name="Profiles: ">Baseline(10, 20, 30, 45) ISWV2(10, 20, 30, 45) </entry>
+</group>
+</group>
+<group title="OMX.google.h264.decoder">
+<group title="Media type: video/avc">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+<entry name="Profiles: ">Baseline(0x10000, 1, 11, 12, 13, 1b, 2, 21, 22, 3, 31, 32, 4, 41, 42, 5, 51) Main(0x10000, 1, 11, 12, 13, 1b, 2, 21, 22, 3, 31, 32, 4, 41, 42, 5, 51) High(0x10000, 1, 11, 12, 13, 1b, 2, 21, 22, 3, 31, 32, 4, 41, 42, 5, 51) </entry>
+</group>
+</group>
+<group title="OMX.google.hevc.decoder">
+<group title="Media type: video/hevc">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+<entry name="Profiles: ">0x1(0x1, 0x10, 0x100, 0x1000, 0x10000, 0x4, 0x40, 0x400, 0x4000) </entry>
+</group>
+</group>
+<group title="OMX.google.vp8.decoder">
+<group title="Media type: video/x-vnd.on2.vp8">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+</group>
+</group>
+<group title="OMX.google.vp9.decoder">
+<group title="Media type: video/x-vnd.on2.vp9">
+<entry name="Color Formats: ">YUV420Flexible</entry>
+</group>
+</group>
+<group title="OMX.google.h263.encoder">
+<group title="Media type: video/3gpp">
+<entry name="Color Formats: ">YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Baseline(45) </entry>
+</group>
+</group>
+<group title="OMX.google.h264.encoder">
+<group title="Media type: video/avc">
+<entry name="Color Formats: ">YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Baseline(1, 11, 12, 13, 1b, 2, 21, 22, 3, 31, 32, 4, 41) Main(1, 11, 12, 13, 1b, 2, 21, 22, 3, 31, 32, 4, 41) </entry>
+</group>
+</group>
+<group title="OMX.google.mpeg4.encoder">
+<group title="Media type: video/mp4v-es">
+<entry name="Color Formats: ">YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Core(2) </entry>
+</group>
+</group>
+<group title="OMX.google.vp8.encoder">
+<group title="Media type: video/x-vnd.on2.vp8">
+<entry name="Color Formats: ">YUV420Flexible YUV420Planar YUV420SemiPlanar</entry>
+<entry name="Profiles: ">Main(Version0, Version1, Version2, Version3) </entry>
+</group>
+</group>
+</group>
+<group title="Features" subtitle="65">
+<group title="Graphics">
+<entry >OpenGL 3.1</entry>
+</group>
+<group title="Android Hardware">
+<entry >android.hardware.audio.low_latency</entry>
+<entry >android.hardware.audio.output</entry>
+<entry >android.hardware.audio.pro</entry>
+<entry >android.hardware.bluetooth</entry>
+<entry >android.hardware.bluetooth_le</entry>
+<entry >android.hardware.camera</entry>
+<entry >android.hardware.camera.any</entry>
+<entry >android.hardware.camera.autofocus</entry>
+<entry >android.hardware.camera.capability.manual_post_processing</entry>
+<entry >android.hardware.camera.capability.manual_sensor</entry>
+<entry >android.hardware.camera.capability.raw</entry>
+<entry >android.hardware.camera.flash</entry>
+<entry >android.hardware.camera.front</entry>
+<entry >android.hardware.camera.level.full</entry>
+<entry >android.hardware.ethernet</entry>
+<entry >android.hardware.faketouch</entry>
+<entry >android.hardware.fingerprint</entry>
+<entry >android.hardware.location</entry>
+<entry >android.hardware.location.gps</entry>
+<entry >android.hardware.location.network</entry>
+<entry >android.hardware.microphone</entry>
+<entry >android.hardware.nfc</entry>
+<entry >android.hardware.nfc.hce</entry>
+<entry >android.hardware.screen.landscape</entry>
+<entry >android.hardware.screen.portrait</entry>
+<entry >android.hardware.sensor.accelerometer</entry>
+<entry >android.hardware.sensor.barometer</entry>
+<entry >android.hardware.sensor.compass</entry>
+<entry >android.hardware.sensor.gyroscope</entry>
+<entry >android.hardware.sensor.hifi_sensors</entry>
+<entry >android.hardware.sensor.light</entry>
+<entry >android.hardware.sensor.proximity</entry>
+<entry >android.hardware.sensor.stepcounter</entry>
+<entry >android.hardware.sensor.stepdetector</entry>
+<entry >android.hardware.telephony</entry>
+<entry >android.hardware.telephony.cdma</entry>
+<entry >android.hardware.telephony.gsm</entry>
+<entry >android.hardware.touchscreen</entry>
+<entry >android.hardware.touchscreen.multitouch</entry>
+<entry >android.hardware.touchscreen.multitouch.distinct</entry>
+<entry >android.hardware.touchscreen.multitouch.jazzhand</entry>
+<entry >android.hardware.usb.accessory</entry>
+<entry >android.hardware.usb.host</entry>
+<entry >android.hardware.wifi</entry>
+<entry >android.hardware.wifi.direct</entry>
+</group>
+<group title="Android Software">
+<entry >android.software.app_widgets</entry>
+<entry >android.software.backup</entry>
+<entry >android.software.connectionservice</entry>
+<entry >android.software.device_admin</entry>
+<entry >android.software.home_screen</entry>
+<entry >android.software.input_methods</entry>
+<entry >android.software.live_wallpaper</entry>
+<entry >android.software.managed_users</entry>
+<entry >android.software.midi</entry>
+<entry >android.software.print</entry>
+<entry >android.software.sip</entry>
+<entry >android.software.sip.voip</entry>
+<entry >android.software.verified_boot</entry>
+<entry >android.software.voice_recognizers</entry>
+<entry >android.software.webview</entry>
+</group>
+<group title="Google">
+<entry >com.google.android.feature.EXCHANGE_6_2</entry>
+<entry >com.google.android.feature.GOOGLE_BUILD</entry>
+<entry >com.google.android.feature.GOOGLE_EXPERIENCE</entry>
+</group>
+<group title="Nxp">
+<entry >com.nxp.mifare</entry>
+</group>
+</group>
+</group>
+</hardwareinfo>
